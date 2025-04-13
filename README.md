@@ -1,4 +1,4 @@
-# Practice : What are Headings in HTML
+# Practice: What are Headings in HTML
 
 ### Practice working with HTML
 
